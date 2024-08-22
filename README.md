@@ -33,7 +33,7 @@ Currently at Deloitte as a business technology solution analyst, and I am open t
 
 ## GitHub Stats
 
-![GitHub Stats]![code-gen21's Stats](https://github-readme-stats.vercel.app/api?username=code-gen21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![code-gen21's Stats](https://github-readme-stats.vercel.app/api?username=code-gen21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![code-gen21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-gen21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Let's Connect!
