@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Siddharth Kandwal 👋
 
-<!--
-**code-gen21/code-gen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Passionate Full Stack Web Developer and problem solver.  
+You can find me watching cricket, movies, and working out at the gym in my spare time.  
+Currently at Deloitte as a business technology solution analyst, and I am open to exploring new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+*Languages:*
+- C++
+
+*Full-Stack Web Development:*
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- SQL
+- HTML5
+- CSS
+- Bootstrap CSS
+- JavaScript
+
+*Softwares and Tools:*
+- Git
+- GitHub
+- MongoDB Compass
+- MongoDB Atlas
+- Postman
+- Visual Studio Code
+- Cocos2d
+
+## GitHub Stats
+
+![GitHub Stats]![code-gen21's Stats](https://github-readme-stats.vercel.app/api?username=code-gen21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![code-gen21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-gen21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+## Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/siddharth-kandwal-4759a0205/)  
+[Email](mailto:siddharth.kandwal05@gmail.com)
